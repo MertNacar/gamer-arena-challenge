@@ -1,3 +1,7 @@
+# Gamer Arena Challenge
+This game-arena challenge is one page that is made responsive, pixel-perfect design from figma, can use turkish and english. <br>
+The Challenge is made with React, Redux, Redux-Saga and Typescript.
+
 ## Available Scripts
 
 In the project directory, you can run in order:
